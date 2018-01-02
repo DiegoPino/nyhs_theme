@@ -2325,7 +2325,7 @@ div#BRpage {
 }
 
 /* line 126, ../sass/components/_blocks.scss */
-.islandora-objects-display-switch ul.islandora-solr-display li a.display-bookmark, .islandora-objects-display-switch ul.links li a.display-bookmark, .islandora-basic-collection-display-switch ul.islandora-solr-display li a.display-bookmark, .islandora-basic-collection-display-switch ul.links li a.display-bookmark, #block-islandora-solr-sort ul.islandora-solr-display li a.display-bookmark, #block-islandora-solr-sort ul.links li a.display-bookmark, #block-islandora-solr-display-switch ul.islandora-solr-display li a.display-bookmark, #block-islandora-solr-display-switch ul.links li a.display-bookmark, .islandora-objects-display-switch ul.islandora-solr-display li a.display-default, .islandora-objects-display-switch ul.links li a.display-default, .islandora-basic-collection-display-switch ul.islandora-solr-display li a.display-default, .islandora-basic-collection-display-switch ul.links li a.display-default, #block-islandora-solr-sort ul.islandora-solr-display li a.display-default, #block-islandora-solr-sort ul.links li a.display-default, #block-islandora-solr-display-switch ul.islandora-solr-display li a.display-default, #block-islandora-solr-display-switch ul.links li a.display-default, .islandora-objects-display-switch ul.islandora-solr-display li a.display-grid, .islandora-objects-display-switch ul.links li a.display-grid, .islandora-basic-collection-display-switch ul.islandora-solr-display li a.display-grid, .islandora-basic-collection-display-switch ul.links li a.display-grid, #block-islandora-solr-sort ul.islandora-solr-display li a.display-grid, #block-islandora-solr-sort ul.links li a.display-grid, #block-islandora-solr-display-switch ul.islandora-solr-display li a.display-grid, #block-islandora-solr-display-switch ul.links li a.display-grid, .islandora-objects-display-switch ul.islandora-solr-sort li a[title="Label"], .islandora-basic-collection-display-switch ul.islandora-solr-sort li a[title="Label"], #block-islandora-solr-sort ul.islandora-solr-sort li a[title="Label"], #block-islandora-solr-display-switch ul.islandora-solr-sort li a[title="Label"], .islandora-objects-display-switch ul.islandora-solr-sort li a[title="Date"], .islandora-basic-collection-display-switch ul.islandora-solr-sort li a[title="Date"], #block-islandora-solr-sort ul.islandora-solr-sort li a[title="Date"], #block-islandora-solr-display-switch ul.islandora-solr-sort li a[title="Date"] {
+.islandora-objects-display-switch ul.islandora-solr-display li a.display-bookmark, .islandora-objects-display-switch ul.links li a.display-bookmark, .islandora-basic-collection-display-switch ul.islandora-solr-display li a.display-bookmark, .islandora-basic-collection-display-switch ul.links li a.display-bookmark, #block-islandora-solr-sort ul.islandora-solr-display li a.display-bookmark, #block-islandora-solr-sort ul.links li a.display-bookmark, #block-islandora-solr-display-switch ul.islandora-solr-display li a.display-bookmark, #block-islandora-solr-display-switch ul.links li a.display-bookmark, .islandora-objects-display-switch ul.islandora-solr-display li a.display-default, .islandora-objects-display-switch ul.links li a.display-default, .islandora-basic-collection-display-switch ul.islandora-solr-display li a.display-default, .islandora-basic-collection-display-switch ul.links li a.display-default, #block-islandora-solr-sort ul.islandora-solr-display li a.display-default, #block-islandora-solr-sort ul.links li a.display-default, #block-islandora-solr-display-switch ul.islandora-solr-display li a.display-default, #block-islandora-solr-display-switch ul.links li a.display-default, .islandora-objects-display-switch ul.islandora-solr-display li a.display-grid, .islandora-objects-display-switch ul.links li a.display-grid, .islandora-basic-collection-display-switch ul.islandora-solr-display li a.display-grid, .islandora-basic-collection-display-switch ul.links li a.display-grid, #block-islandora-solr-sort ul.islandora-solr-display li a.display-grid, #block-islandora-solr-sort ul.links li a.display-grid, #block-islandora-solr-display-switch ul.islandora-solr-display li a.display-grid, #block-islandora-solr-display-switch ul.links li a.display-grid, .islandora-objects-display-switch ul.islandora-solr-sort li a[title="Sort results alphabetically"], .islandora-basic-collection-display-switch ul.islandora-solr-sort li a[title="Sort results alphabetically"], #block-islandora-solr-sort ul.islandora-solr-sort li a[title="Sort results alphabetically"], #block-islandora-solr-display-switch ul.islandora-solr-sort li a[title="Sort results alphabetically"], .islandora-objects-display-switch ul.islandora-solr-sort li a[title="Sort results by date"], .islandora-basic-collection-display-switch ul.islandora-solr-sort li a[title="Sort results by date"], #block-islandora-solr-sort ul.islandora-solr-sort li a[title="Sort results by date"], #block-islandora-solr-display-switch ul.islandora-solr-sort li a[title="Sort results by date"] {
   background-repeat: no-repeat;
   line-height: 0;
   font-size: 0;
@@ -2368,11 +2368,11 @@ div#BRpage {
   float: left;
 }
 /* line 161, ../sass/components/_blocks.scss */
-.islandora-objects-display-switch ul.islandora-solr-sort li a[title="Label"], .islandora-basic-collection-display-switch ul.islandora-solr-sort li a[title="Label"], #block-islandora-solr-sort ul.islandora-solr-sort li a[title="Label"], #block-islandora-solr-display-switch ul.islandora-solr-sort li a[title="Label"] {
+.islandora-objects-display-switch ul.islandora-solr-sort li a[title="Sort results alphabetically"], .islandora-basic-collection-display-switch ul.islandora-solr-sort li a[title="Sort results alphabetically"], #block-islandora-solr-sort ul.islandora-solr-sort li a[title="Sort results alphabetically"], #block-islandora-solr-display-switch ul.islandora-solr-sort li a[title="Sort results alphabetically"] {
   background-image: url('../images/sort.png?1459348584');
 }
 /* line 165, ../sass/components/_blocks.scss */
-.islandora-objects-display-switch ul.islandora-solr-sort li a[title="Date"], .islandora-basic-collection-display-switch ul.islandora-solr-sort li a[title="Date"], #block-islandora-solr-sort ul.islandora-solr-sort li a[title="Date"], #block-islandora-solr-display-switch ul.islandora-solr-sort li a[title="Date"] {
+.islandora-objects-display-switch ul.islandora-solr-sort li a[title="Sort results by date"], .islandora-basic-collection-display-switch ul.islandora-solr-sort li a[title="Sort results by date"], #block-islandora-solr-sort ul.islandora-solr-sort li a[title="Sort results by date"], #block-islandora-solr-display-switch ul.islandora-solr-sort li a[title="Sort results by date"] {
   background-image: url('../images/calendar.png?1459348584');
 }
 
@@ -2764,6 +2764,7 @@ div#BRpage {
     -ms-box-sizing: border-box;
     box-sizing: border-box;
     word-wrap: break-word;
+	margin-top:52px;
   }
 }
 /**
@@ -2809,10 +2810,10 @@ div#BRpage {
 }
 /* line 42, ../sass/components/views/frontpage/_slideshow.scss */
 .front .slideshow-item-text-top {
-  font-family: Adobe Garamond Pro;
+  font-family: "Adobe Garamond Pro", Georgia, "Times New Roman", Times, serif;
   line-height: 50px;
-  font-size: 35px;
-  color: black !important;
+  font-size: 40px;
+  color: #FFF !important;
   margin-top: 2em;
 }
 /* line 48, ../sass/components/views/frontpage/_slideshow.scss */
@@ -2838,6 +2839,7 @@ div#BRpage {
   line-height: 17px;
   position: absolute;
   text-transform: uppercase;
+  right: 2em;
 }
 /* line 75, ../sass/components/views/frontpage/_slideshow.scss */
 .front .flexslider .slides li .info-content-wrapper {
@@ -2883,6 +2885,8 @@ div#BRpage {
 
 /* line 119, ../sass/components/views/frontpage/_slideshow.scss */
 .views-field-field-read-more-text {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #201406;
   bottom: 20px;
   font-size: 10px;
   position: absolute;
@@ -3380,8 +3384,8 @@ div#BRpage {
     width: 95%;
     margin-left: 0%;
     margin-right: -95%;
-    padding-left: 5px;
-    padding-right: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
     -ms-box-sizing: border-box;
@@ -3744,6 +3748,13 @@ div#BRpage {
     display: none;
   }
 }
+
+/*.islandora-solr-metadata-sidebar{
+	display:none;}*/
 /* SMACSS theme rules */
 /* @import "theme-A"; */
 /* @import "theme-B"; */
+
+.error, .messages--error{
+	display:none;
+}
